@@ -1,0 +1,8 @@
+*-bak
+*.bak
+*.kicad_prl
+*.lck
+*.rpt
+.kicad_wks
+.history
+.DS_Store
